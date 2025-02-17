@@ -7,7 +7,7 @@ use GuzzleHttp\Client;
 
 class LaravelXpos {
 
-	public function apiTest()
+	public function xposTest()
     {
         // Replace 'YOUR_API_KEY' with your OpenWeather API key
         $apiKey = env('XPOS_TEST_API_KEY');
