@@ -1,5 +1,5 @@
 {
-    "name": "KingOfWebDesigns/laravel-xpos",
+    "name": "king-of-web-designs/laravel-xpos",
     "description": "This package connects the Xpos till system to a laravel application via the Xpos API",
     "keywords": [
         "King Of Web Designs",
