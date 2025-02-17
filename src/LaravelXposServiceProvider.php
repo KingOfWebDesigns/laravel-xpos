@@ -4,7 +4,7 @@ namespace KingOfWebDesigns\LaravelXpos;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use King Of Web Designs\LaravelXpos\Commands\LaravelXposCommand;
+use KingOfWebDesigns\LaravelXpos\Commands\LaravelXposCommand;
 
 class LaravelXposServiceProvider extends PackageServiceProvider
 {
