@@ -20,7 +20,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require hello-kingofwebdesigns-co-uk/laravel-xpos
+composer require KingOfWebDesigns/laravel-xpos
 ```
 
 You can publish and run the migrations with:
@@ -52,7 +52,7 @@ php artisan vendor:publish --tag="laravel-xpos-views"
 ## Usage
 
 ```php
-$laravelXpos = new King Of Web Designs\LaravelXpos();
+$laravelXpos = new KingOfWebDesigns\LaravelXpos();
 echo $laravelXpos->echoPhrase('Hello, King Of Web Designs!');
 ```
 
@@ -76,7 +76,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Matthew King - King Of Web Designs](https://github.com/hello@kingofwebdesigns.co.uk)
+- [Matthew King - King Of Web Designs](https://github.com/KingOfWebDesigns)
 - [All Contributors](../../contributors)
 
 ## License
